@@ -6,7 +6,7 @@ Welcome to the Recipe Sharing Website project! This project is a simple web appl
 
 The project is organized into the following sections:
 
-1. **Home: A welcome page with a brief introduction and featured recipes.
+1. **Home**: A welcome page with a brief introduction and featured recipes.
 2. **Recipes**: A page listing all available recipes with links to their details.
 3. **Add Recipe**: A form where users can submit new recipes.
 4. **Recipe Details**: A page displaying the details of a selected recipe.
